@@ -1,0 +1,1 @@
+This project supports features typical to a social media platform in which users can perform actions including following, unfollowing, blocking, and tagging of other users, as well as being able to post and unpost tweets.
